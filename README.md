@@ -81,6 +81,23 @@ Check our [**UTILITIES.md**](./UTILITIES.md) for free-to-use, high-impact tools:
 - **Predictive SRAM Profiler**: Hardware-aware memory analysis.
 
 ---
+
+## ⚖️ Intellectual Property & Licensing
+
+### 1. Open Source Licensing
+The structural frameworks and utilities provided in this repository are licensed under the **MIT License**. You are free to use, modify, and distribute them provided the original copyright notice is retained.
+
+### 2. IP Protection (Clean Room Policy)
+- All logic presented here is **Original Work** or derived from public standards/specifications. 
+- We strictly adhere to a **Clean Room Design** policy. No code from previous clients, employers, or proprietary third-party SDKs (under NDA) is included in this repository. 
+- Interface definitions for third-party hardware (e.g., Tenstorrent) are designed for compatibility and do not contain restricted implementation details or proprietary binaries.
+
+### 3. Bounty Assignments & IP Transfer
+When McCoy Labs is assigned to a specific GitHub Bounty or client project:
+- The specific implementation delivered for that project (the "Deliverable") is granted under the project's required license (e.g., Apache 2.0/MIT).
+- McCoy Labs retains all rights to the underlying, general-purpose architectural patterns and pre-existing modules used to build the deliverable.
+
+---
 **Contact & Assignments**: We are active on GitHub Bounty boards. For formal assignments or architecture consulting, please reach out via a project issue or contact our Lead Architect.
 
 *McCoy Labs - Where 운산 (Compute) meets 영혼 (Soul).*
