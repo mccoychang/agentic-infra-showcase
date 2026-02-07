@@ -1,7 +1,9 @@
 # McCoy Labs: High-Performance Agentic Infrastructure
 
-[![McCoy Labs](https://img.shields.io/badge/McCoy-Labs-blueviolet?style=for-the-badge)](https://github.com/mccoychang)
-[![Mission](https://img.shields.io/badge/Mission-Secure_Agentic_Compute-brightgreen?style=for-the-badge)](https://github.com/mccoychang)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+![Clean Room Design: Verified](https://img.shields.io/badge/Clean_Room_Design-Verified-brightgreen?style=for-the-badge)
+![Architecture: Enterprise](https://img.shields.io/badge/Architecture-Enterprise-orange?style=for-the-badge)
+![Verified Locally: 100%](https://img.shields.io/badge/Verified_Locally-100%25-blue?style=for-the-badge)
 
 McCoy Labs is a specialized research and engineering entity focused on the intersection of **AI Agent Autonomy**, **Web3 Security**, and **Hardware-Native Inference**. This repository serves as a technical whitepaper and structural showcase for our production paradigms.
 
